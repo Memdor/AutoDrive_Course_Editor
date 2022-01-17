@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<EditorConfig>
+    <Version>0.60.2</Version>
+    <ShowUpdateMessage>true</ShowUpdateMessage>
+    <WindowX>-7</WindowX>
+    <WindowY>-7</WindowY>
+    <WindowWidth>1550</WindowWidth>
+    <WindowHeight>830</WindowHeight>
+    <Check_Online_MapImages>true</Check_Online_MapImages>
+    <Continuous_Connection>false</Continuous_Connection>
+    <MiddleMouseMove>false</MiddleMouseMove>
+    <LinearLineNodeDistance>12</LinearLineNodeDistance>
+    <CurveSliderMaximum>50</CurveSliderMaximum>
+    <CurveSliderDefault>10</CurveSliderDefault>
+    <ControlPointMoveScaler>3</ControlPointMoveScaler>
+    <ShowGrid>false</ShowGrid>
+    <GridSnapping>false</GridSnapping>
+    <GridSpacingX>2.0</GridSpacingX>
+    <GridSpacingY>2.0</GridSpacingY>
+    <SnapSubDivision>false</SnapSubDivision>
+    <GridSubDivisions>4</GridSubDivisions>
+    <RotationStep>5</RotationStep>
+</EditorConfig>

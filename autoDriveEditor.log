@@ -1,0 +1,81 @@
+[INFO ] 2022-01-03 02:08:46.911 [AWT-EventQueue-0] AutoDriveEditor - Starting AutoDrive Editor v0.60.2 .....
+[INFO ] 2022-01-03 02:08:46.913 [AWT-EventQueue-0] AutoDriveEditor - Java Runtime Version 17
+[INFO ] 2022-01-03 02:08:46.915 [AWT-EventQueue-0] AutoDriveEditor - 'AutoDriveEditor_de_DE.properties' not found. looking in folders
+[INFO ] 2022-01-03 02:08:46.916 [AWT-EventQueue-0] AutoDriveEditor - Locale file not found..loading default locale for en_US
+[WARN ] 2022-01-03 02:08:47.039 [AWT-EventQueue-0] AutoDriveEditor - Editor config not found, using defaults.. a new config will be saved on exit
+[INFO ] 2022-01-03 02:08:47.118 [ConnectionDraw Thread] AutoDriveEditor - Starting ConnectionDraw Thread
+[INFO ] 2022-01-03 02:08:47.119 [AWT-EventQueue-0] AutoDriveEditor - Initializing CopyPaste Manager
+[INFO ] 2022-01-03 02:08:47.120 [NodeDraw Thread] AutoDriveEditor - Starting NodeDraw thread
+[INFO ] 2022-01-03 02:08:47.264 [AWT-EventQueue-0] AutoDriveEditor - Invalid saved window Location/Size
+[INFO ] 2022-01-03 02:08:47.391 [AWT-EventQueue-0] AutoDriveEditor - Connecting to GitHub for update check
+[INFO ] 2022-01-03 02:08:48.160 [AWT-EventQueue-0] AutoDriveEditor - No update available... Remote version 0.60.2 matches current version
+[INFO ] 2022-01-03 02:08:51.067 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Load Config
+[INFO ] 2022-01-03 02:09:05.278 [AWT-EventQueue-0] AutoDriveEditor - loadFile: C:\Users\golda\Documents\My Games\FarmingSimulator2022\savegame3\AutoDrive_config.xml
+[INFO ] 2022-01-03 02:09:05.291 [AWT-EventQueue-0] AutoDriveEditor - Root element :AutoDrive
+[INFO ] 2022-01-03 02:09:05.293 [AWT-EventQueue-0] AutoDriveEditor - FS22 Config detected
+[INFO ] 2022-01-03 02:09:05.293 [AWT-EventQueue-0] AutoDriveEditor - Config was saved by AutoDrive '2.0.0.2'
+[INFO ] 2022-01-03 02:09:05.296 [AWT-EventQueue-0] AutoDriveEditor - Current Element :waypoints
+[INFO ] 2022-01-03 02:09:05.376 [AWT-EventQueue-0] AutoDriveEditor - Loaded config for map : Elmcreek
+[INFO ] 2022-01-03 02:09:05.376 [AWT-EventQueue-0] AutoDriveEditor - Config load complete.
+[INFO ] 2022-01-03 02:09:05.378 [AWT-EventQueue-0] AutoDriveEditor - failed to load map image from JAR .. trying alternate locations
+[INFO ] 2022-01-03 02:09:05.379 [AWT-EventQueue-0] AutoDriveEditor - failed to load map image from C:/Users/golda/Documents/GitHub/AutoDrive_Course_Editor/mapImages/Elmcreek.png
+[INFO ] 2022-01-03 02:09:05.379 [AWT-EventQueue-0] AutoDriveEditor - failed to load map image from C:/Users/golda/Documents/GitHub/AutoDrive_Course_Editor/src/main/resources/mapImages/Elmcreek.png
+[INFO ] 2022-01-03 02:09:05.379 [AWT-EventQueue-0] AutoDriveEditor - failed to load map image from C:/Users/golda/Documents/GitHub/AutoDrive_Course_Editor/Elmcreek.png
+[INFO ] 2022-01-03 02:09:05.384 [AWT-EventQueue-0] AutoDriveEditor - Checking GitHub repository for https://github.com/KillBait/FS19_AutoDrive_MapImages/raw/main/mapImages/Elmcreek.png
+[INFO ] 2022-01-03 02:09:06.159 [AWT-EventQueue-0] AutoDriveEditor - File 'C:\Users\golda\Documents\GitHub\AutoDrive_Course_Editor\mapImages\Elmcreek.png' downloaded successfully!
+[INFO ] 2022-01-03 02:09:06.159 [AWT-EventQueue-0] AutoDriveEditor - Saved downloaded image to /C:/Users/golda/Documents/GitHub/AutoDrive_Course_Editor/mapImages/Elmcreek.png
+[INFO ] 2022-01-03 02:09:06.213 [AWT-EventQueue-0] AutoDriveEditor - Selected Image size is 2048 x 2048
+[INFO ] 2022-01-03 02:09:06.227 [AWT-EventQueue-0] AutoDriveEditor - HeightMap path = C:\Users\golda\Documents\My Games\FarmingSimulator2022\savegame3\terrain.heightmap.png
+[INFO ] 2022-01-03 02:09:42.880 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Move Nodes
+[INFO ] 2022-01-03 02:10:04.266 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Quadratic Bezier
+[INFO ] 2022-01-03 02:10:32.892 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Cancel Curve
+[INFO ] 2022-01-03 02:10:33.096 [AWT-EventQueue-0] AutoDriveEditor - curve cancelled
+[INFO ] 2022-01-03 02:10:42.514 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Remove Nodes
+[INFO ] 2022-01-03 02:11:04.753 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Quadratic Bezier
+[INFO ] 2022-01-03 02:11:17.735 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Confirm Curve
+[INFO ] 2022-01-03 02:11:28.565 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Confirm Curve
+[INFO ] 2022-01-03 02:11:52.328 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Confirm Curve
+[INFO ] 2022-01-03 02:12:50.101 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Move Nodes
+[INFO ] 2022-01-03 02:13:05.851 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Save Config
+[INFO ] 2022-01-03 02:13:06.033 [AWT-EventQueue-0] AutoDriveEditor - Save config started.
+[INFO ] 2022-01-03 02:13:06.244 [AWT-EventQueue-0] AutoDriveEditor - Save config completed.
+[INFO ] 2022-01-03 02:13:32.914 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Cubic Bezier
+[INFO ] 2022-01-03 02:13:48.564 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Cancel Curve
+[INFO ] 2022-01-03 02:13:48.759 [AWT-EventQueue-0] AutoDriveEditor - curve cancelled
+[INFO ] 2022-01-03 02:14:02.634 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Manage Destination Groups
+[INFO ] 2022-01-03 02:14:20.168 [AWT-EventQueue-0] AutoDriveEditor - Cancelling marker edit
+[INFO ] 2022-01-03 02:14:34.332 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Horizontally Align Nodes
+[INFO ] 2022-01-03 02:14:46.487 [AWT-EventQueue-0] AutoDriveEditor - Rectangle started at 523/415
+[INFO ] 2022-01-03 02:14:46.639 [AWT-EventQueue-0] AutoDriveEditor - Rectangle ended at 523/415
+[INFO ] 2022-01-03 02:14:46.640 [AWT-EventQueue-0] AutoDriveEditor - Selecting nodes to horizontally align
+[INFO ] 2022-01-03 02:14:49.367 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Vertically Align Nodes
+[INFO ] 2022-01-03 02:14:58.893 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Horizontally Align Nodes
+[INFO ] 2022-01-03 02:15:02.882 [AWT-EventQueue-0] AutoDriveEditor - Rectangle started at 1020/247
+[INFO ] 2022-01-03 02:15:03.826 [AWT-EventQueue-0] AutoDriveEditor - Rectangle ended at 868/133
+[INFO ] 2022-01-03 02:15:03.826 [AWT-EventQueue-0] AutoDriveEditor - Selecting nodes to horizontally align
+[INFO ] 2022-01-03 02:15:05.603 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Horizontally Align Nodes
+[INFO ] 2022-01-03 02:15:07.569 [AWT-EventQueue-0] AutoDriveEditor - Horizontal Align 4 nodes at 85.46
+[INFO ] 2022-01-03 02:15:10.590 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Undo
+[INFO ] 2022-01-03 02:15:12.354 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Vertically Align Nodes
+[INFO ] 2022-01-03 02:15:13.326 [AWT-EventQueue-0] AutoDriveEditor - Rectangle started at 1023/274
+[INFO ] 2022-01-03 02:15:14.358 [AWT-EventQueue-0] AutoDriveEditor - Rectangle ended at 935/125
+[INFO ] 2022-01-03 02:15:14.358 [AWT-EventQueue-0] AutoDriveEditor - Selecting nodes to vertically align
+[INFO ] 2022-01-03 02:15:16.714 [AWT-EventQueue-0] AutoDriveEditor - Vertical Align 4 nodes at 343.35
+[INFO ] 2022-01-03 02:15:25.157 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Undo
+[INFO ] 2022-01-03 02:15:29.804 [AWT-EventQueue-0] AutoDriveEditor - Rectangle started at 549/499
+[INFO ] 2022-01-03 02:15:32.524 [AWT-EventQueue-0] AutoDriveEditor - Rectangle ended at 304/402
+[INFO ] 2022-01-03 02:15:32.525 [AWT-EventQueue-0] AutoDriveEditor - Selecting nodes to vertically align
+[INFO ] 2022-01-03 02:15:34.576 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Horizontally Align Nodes
+[INFO ] 2022-01-03 02:15:36.476 [AWT-EventQueue-0] AutoDriveEditor - Horizontal Align 3 nodes at 85.51
+[INFO ] 2022-01-03 02:15:40.311 [AWT-EventQueue-0] AutoDriveEditor - Rectangle started at 384/438
+[INFO ] 2022-01-03 02:15:41.052 [AWT-EventQueue-0] AutoDriveEditor - Rectangle ended at 424/442
+[INFO ] 2022-01-03 02:15:41.053 [AWT-EventQueue-0] AutoDriveEditor - Selecting nodes to horizontally align
+[INFO ] 2022-01-03 02:15:42.782 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Move Nodes
+[INFO ] 2022-01-03 02:16:05.635 [AWT-EventQueue-0] AutoDriveEditor - ActionCommand: Save Config
+[INFO ] 2022-01-03 02:16:05.802 [AWT-EventQueue-0] AutoDriveEditor - Save config started.
+[INFO ] 2022-01-03 02:16:05.903 [AWT-EventQueue-0] AutoDriveEditor - Save config completed.
+[INFO ] 2022-01-03 02:16:08.869 [AWT-EventQueue-0] AutoDriveEditor - Stopping ConnectionDraw Thread
+[INFO ] 2022-01-03 02:16:08.869 [AWT-EventQueue-0] AutoDriveEditor - Stopping NodeDraw thread
+[INFO ] 2022-01-03 02:16:08.869 [ConnectionDraw Thread] AutoDriveEditor - ConnectionDraw Thread exiting
+[INFO ] 2022-01-03 02:16:08.869 [NodeDraw Thread] AutoDriveEditor - NodeDraw Thread exiting
+[INFO ] 2022-01-03 02:16:08.871 [AWT-EventQueue-0] AutoDriveEditor - Completed saving Editor Config
