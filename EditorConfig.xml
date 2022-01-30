@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <EditorConfig>
-    <Version>0.60.2</Version>
+    <Version>0.70.1</Version>
     <ShowUpdateMessage>true</ShowUpdateMessage>
+    <AutoSave_Interval>10</AutoSave_Interval>
+    <AutoSave_Slots>10</AutoSave_Slots>
     <WindowX>-7</WindowX>
     <WindowY>-7</WindowY>
     <WindowWidth>1550</WindowWidth>
