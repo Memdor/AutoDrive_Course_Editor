@@ -96,3 +96,19 @@
 [INFO ] 2022-01-24 00:39:16.362 [NodeDraw Thread] AutoDriveEditor - NodeDraw Thread exiting
 [INFO ] 2022-01-24 00:39:16.363 [AWT-EventQueue-0] AutoDriveEditor - AutoSave Timer Thread exiting
 [INFO ] 2022-01-24 00:39:16.400 [AWT-EventQueue-0] AutoDriveEditor - Completed saving Editor Config
+[INFO ] 2022-02-04 18:00:59.283 [AWT-EventQueue-0] AutoDriveEditor - Starting AutoDrive Editor v0.70.1 .....
+[INFO ] 2022-02-04 18:00:59.285 [AWT-EventQueue-0] AutoDriveEditor - Java Runtime Version 17
+[INFO ] 2022-02-04 18:00:59.287 [AWT-EventQueue-0] AutoDriveEditor - 'AutoDriveEditor_de_DE.properties' not found. looking in folders
+[INFO ] 2022-02-04 18:00:59.288 [AWT-EventQueue-0] AutoDriveEditor - Locale file not found..loading default locale for en_US
+[INFO ] 2022-02-04 18:00:59.485 [ConnectionDraw Thread] AutoDriveEditor - Starting ConnectionDraw Thread
+[INFO ] 2022-02-04 18:00:59.485 [AWT-EventQueue-0] AutoDriveEditor - Initializing CopyPaste Manager
+[INFO ] 2022-02-04 18:00:59.485 [NodeDraw Thread] AutoDriveEditor - Starting NodeDraw thread
+[INFO ] 2022-02-04 18:00:59.486 [AWT-EventQueue-0] AutoDriveEditor - Starting AutoSave Thread
+[INFO ] 2022-02-04 18:00:59.714 [AWT-EventQueue-0] AutoDriveEditor - Connecting to GitHub for update check
+[INFO ] 2022-02-04 18:01:00.080 [AWT-EventQueue-0] AutoDriveEditor - Update is available... Current version 0.70.1 is lower than remote version 0.80.0
+[INFO ] 2022-02-04 18:01:02.513 [AWT-EventQueue-0] AutoDriveEditor - Stopping ConnectionDraw Thread
+[INFO ] 2022-02-04 18:01:02.513 [AWT-EventQueue-0] AutoDriveEditor - Stopping NodeDraw thread
+[INFO ] 2022-02-04 18:01:02.513 [ConnectionDraw Thread] AutoDriveEditor - ConnectionDraw Thread exiting
+[INFO ] 2022-02-04 18:01:02.513 [NodeDraw Thread] AutoDriveEditor - NodeDraw Thread exiting
+[INFO ] 2022-02-04 18:01:02.513 [AWT-EventQueue-0] AutoDriveEditor - AutoSave Timer Thread exiting
+[INFO ] 2022-02-04 18:01:02.549 [AWT-EventQueue-0] AutoDriveEditor - Completed saving Editor Config
