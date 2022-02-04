@@ -96,3 +96,9 @@
 [INFO ] 2022-01-24 00:39:16.362 [NodeDraw Thread] AutoDriveEditor - NodeDraw Thread exiting
 [INFO ] 2022-01-24 00:39:16.363 [AWT-EventQueue-0] AutoDriveEditor - AutoSave Timer Thread exiting
 [INFO ] 2022-01-24 00:39:16.400 [AWT-EventQueue-0] AutoDriveEditor - Completed saving Editor Config
+[INFO ] 2022-02-04 17:59:59.691 [AWT-EventQueue-0] AutoDriveEditor - Stopping ConnectionDraw Thread
+[INFO ] 2022-02-04 17:59:59.691 [AWT-EventQueue-0] AutoDriveEditor - Stopping NodeDraw thread
+[INFO ] 2022-02-04 17:59:59.691 [ConnectionDraw Thread] AutoDriveEditor - ConnectionDraw Thread exiting
+[INFO ] 2022-02-04 17:59:59.691 [NodeDraw Thread] AutoDriveEditor - NodeDraw Thread exiting
+[INFO ] 2022-02-04 17:59:59.691 [AWT-EventQueue-0] AutoDriveEditor - AutoSave Timer Thread exiting
+[INFO ] 2022-02-04 18:00:01.988 [AWT-EventQueue-0] AutoDriveEditor - Completed saving Editor Config
